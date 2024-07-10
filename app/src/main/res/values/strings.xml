@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">IntelliCasePro</string>
+    <string name="nav_header_desc">Navigation Header</string>
+
+    <!-- MainActivity Strings -->
+    <string name="hint_username">Username</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_report">Enter report details here</string>
+    <string name="button_login">Login</string>
+    <string name="expenses">Expenses</string>
+    <string name="edit_report">Edit Report</string>
+
+    <!-- SettingsActivity Strings -->
+    <string name="profile_settings">Profile Settings</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="update_profile">Update Profile</string>
+    <string name="notification_settings">Notification Settings</string>
+    <string name="email_notifications">Email Notifications</string>
+    <string name="sms_notifications">SMS Notifications</string>
+    <string name="update_notifications">Update Notifications</string>
+    <string name="privacy_settings">Privacy Settings</string>
+    <string name="profile_visibility">Profile Visibility</string>
+    <string name="search_engine_indexing">Search Engine Indexing</string>
+    <string name="update_privacy">Update Privacy</string>
+
+    <!-- Navigation Menu Strings -->
+    <string name="training_activity">Training and Resources</string>
+    <string name="nav_profile">Profile</string>
+    <string name="nav_cases">Cases</string>
+    <string name="nav_reports">Reports</string>
+    <string name="nav_expenses">Expenses</string>
+    <string name="nav_invoices">Invoices</string>
+    <string name="nav_calendar">Calendar</string>
+    <string name="nav_training">Training</string>
+    <string name="nav_settings">Settings</string>
+</resources>
